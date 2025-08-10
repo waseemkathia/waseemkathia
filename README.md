@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I'm DataSpieler 🧠</h1>
+<h1 align="center">👋 Hi, I am Muhammad Waseem Sabir🧠</h1>
 
 <!-- Matrix-style animated intro -->
 <p align="center">
@@ -13,8 +13,8 @@
 
 <!-- Subtitle with Germany flag -->
 <h3 align="center">
-  BI Analyst • Power BI Enthusiast • Data Storyteller from Germany
-  <img src="https://flagcdn.com/w40/de.png" width="20" alt="Germany Flag">
+  Data Scientist • AI Researcher  • Data Storyteller from Pakistan
+  <img src="https://flagpedia.net/data/flags/w1160/pk.webp" width="20" alt="Pakistani Flag">
 </h3>
 
 <!-- Workspace image -->
