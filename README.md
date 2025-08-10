@@ -19,7 +19,6 @@
 <!-- Subtitle with Germany flag -->
 <h3 align="center">
   Data Scientist • AI Researcher  • Data Storyteller
-<br> 
 </h3>
 
 <!-- Workspace image -->
@@ -27,6 +26,12 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
 </div>
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waseemkathia/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://waseemkathia.github.io/)
+[![Substack Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://waseemkathia.substack.com/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@waseem.kathia)
+[![Substack Badge](https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=Substack&logoColor=white)](waseemkathia.substack.com)
 ---
 
 ## 🧠 About Me
