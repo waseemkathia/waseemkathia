@@ -4,7 +4,7 @@
 </p>
 
 <!-- Header -->
-<h1 align="center">👋 Hi, I am Muhammad Waseem Sabir🧠</h1>
+<h1 align="center">👋 Hi, I am Muhammad Waseem Sabir</h1>
 
 <!-- Matrix-style animated intro -->
 <p align="center">
