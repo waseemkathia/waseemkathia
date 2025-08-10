@@ -39,9 +39,9 @@
 
 ## 🧠 About Me
 
-I'm a passionate data scientist focused on research and innovation.  
-I also love turning complex data into simple, impactful, and visually stunning dashboards.  
-Currently experimenting with LLM fine tuning.
+- I'm a passionate data scientist focused on research and innovation.  
+- I also love turning complex data into simple, impactful, and visually stunning dashboards.  
+- Currently experimenting with LLM fine tuning.
 
 ---
 ## 💼 Tools & Technologies
