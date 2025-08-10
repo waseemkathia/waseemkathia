@@ -19,14 +19,13 @@
 <!-- Subtitle with Germany flag -->
 <h3 align="center">
   Data Scientist • AI Researcher  • Data Storyteller
-<br>
 <br> 
 </h3>
 
 <!-- Workspace image -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif" alt="Coding at desk" width="480"/>
-</p>
+<div align ="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+</div>
 
 ---
 
