@@ -60,7 +60,6 @@ Currently experimenting with LLM fine tuning.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-117A65?style=for-the-badge&logo=data&logoColor=white)
 
 ---
 
