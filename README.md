@@ -13,8 +13,9 @@
 
 <!-- Subtitle with Germany flag -->
 <h3 align="center">
-  Data Scientist • AI Researcher  • Data Storyteller from Pakistan
-  <img src="https://flagpedia.net/data/flags/w1160/pk.webp" width="20" alt="Pakistani Flag">
+  Data Scientist • AI Researcher  • Data Storyteller
+<br>
+<br> 
 </h3>
 
 <!-- Workspace image -->
@@ -26,9 +27,9 @@
 
 ## 🧠 About Me
 
-I'm a passionate data analyst focused on Business Intelligence solutions.  
-I love turning complex data into simple, impactful, and visually stunning dashboards.  
-Currently experimenting with custom HTML + JS visuals inside Power BI.
+I'm a passionate data scientist focused on research and innovation.  
+I also love turning complex data into simple, impactful, and visually stunning dashboards.  
+Currently experimenting with LLM fine tuning.
 
 ---
 ## 💼 Tools & Technologies
@@ -36,7 +37,6 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
@@ -69,22 +69,20 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
----
-
-## 🚀 Currently Working On
+<!-- ## 🚀 Currently Working On
 
 - Animated custom visuals in Power BI using HTML + JS 🎯  
 - Interactive dashboards for operational KPIs 📊  
-- Automating reports using Python + SQL 🔄
+- Automating reports using Python + SQL 🔄 -->
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 
 <!-- 📊 Tarjeta de resumen con eventos y curva de contribuciones -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dataspieler12345&theme=tokyonight" alt="Profile Summary Card" width="820" />
-</p>
+</p> -->
 
 ---
 
@@ -98,14 +96,13 @@ Currently experimenting with custom HTML + JS visuals inside Power BI.
 
 ## 🤝 Let's Collaborate
 
-I'm open to collaborating on data, automation, or BI visualization projects.
+I'm open to collaborating on data science, automation, or data visualization projects.
 
-📩 Email: [yoursocialmediacontact@gmail.com](mailto:yoursocialmediacontact@gmail.com)  
+📩 Email: [waseemkathia@gmail.com](mailto:yoursocialmediacontact@gmail.com)  
 
----
-## 🎯 Fun Fact
+<!-- ## 🎯 Fun Fact
 
-> Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 😄
+> Sometimes my dashboards take longer to design than to analyze… but every pixel is worth it! 😄 -->
 
 ---
 ## 🙏 Thanks for stopping by!
@@ -113,4 +110,4 @@ I'm open to collaborating on data, automation, or BI visualization projects.
 If you like my work, feel free to ⭐ star this profile or reach out for collaboration.  
 Let’s build meaningful data solutions together! 🚀
 
-<p align="center"><em>© 2025 DataSpieler</em></p>
+<p align="center"><em>© 2025 Muhammad Waseem Sabir</em></p>
